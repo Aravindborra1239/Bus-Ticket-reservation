@@ -1,0 +1,39 @@
+.bg-container{
+    background-image: linear-gradient(orange,grey);
+    height: 100vh;
+}
+
+.login-bg-container{
+    background-color:#fff;
+    height: 70vh;
+    width: 45vw;
+    border-radius: 25px;
+    margin-top: 40px;
+}
+
+.login-heading{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.bus-image{
+    height: 280px;
+    width: 240px;
+    margin-left: 15px;
+
+}
+
+.loginbtn{
+    background-color: blue;
+    color: #fff;
+    text-decoration: none;
+    padding: 9px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 10px;
+}
+
+.loginbtn:hover{
+    color: #fff;
+}
